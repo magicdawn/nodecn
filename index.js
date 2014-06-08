@@ -3,7 +3,7 @@ var open = require("open");
 var colors = require("colors");
 
 program
-	.version("0.0.5")
+	.version("0.0.6")
 	.option("-t,--tieba [page]", "百度nodejs吧")
 	.option("-c,--cnode [page]", "CNode社区")
 	.option("-o,--official","nodejs官方网站")

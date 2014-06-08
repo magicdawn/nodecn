@@ -1,6 +1,6 @@
 {
   "name": "nodecn",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "node community cli for chinese nodejs developer",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,7 @@
     "test": "mocha"
   },
   "keywords": [
-    "nodech",
+    "nodecn",
     "chinese",
     "community"
   ],
