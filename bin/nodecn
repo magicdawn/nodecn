@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+//execute the index.js
+require("../index.js");

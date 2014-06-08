@@ -1,0 +1,24 @@
+{
+  "name": "nodecn",
+  "version": "0.0.5",
+  "description": "node community cli for chinese nodejs developer",
+  "main": "index.js",
+  "bin": {
+    "nodecn": "./bin/nodecn"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodech",
+    "chinese",
+    "community"
+  ],
+  "author": "magicdawn",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "open": "0.0.5",
+    "colors": "^0.6.2"
+  }
+}
